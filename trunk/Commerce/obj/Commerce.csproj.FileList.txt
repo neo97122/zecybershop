@@ -1,0 +1,5 @@
+bin\Commerce.dll
+bin\Commerce.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Commerce.dll
+obj\Debug\Commerce.pdb
