@@ -1,0 +1,497 @@
+/* css Zen Garden - 'Black River - White Fish' by Inguna Trepsha - http://www.antemeridiemdesign.com/ */
+/* css released under Creative Commons License - http://creativecommons.org/licenses/by-nc-sa/1.0/  */
+/*All associated graphics copyright 2005, Inguna Trepsha*/
+
+/*Tested: Mac OS X: Camino 0.8.4, Firefox 1.07, Opera 8.5, Safari 1.3.1; Windows: IE 5.5+, Firefox 1.07, NS 6.2.3, NS 7.2, NS 8.0.4, Opera 8.5*/
+
+/*The main idea behind this layout was to explore a free-flow movement while trying to retain as much control over it as necessary. Also, it's an attempt to break out of the rigidity of the distinctly rectangular structures that seem to be most popular among the CSS Zen Garden designs.
+In the end I was amazed how relatively easy it was to write the style sheet for Gecko browsers, and how hard the IE part turned out to be. Dealing with Geckos for me - not a particularly strong CSS-coder - was very intuitive, almost a fun. As to the IEs, it seemed like an endless swim against some murky hostile current: it took ten times more time, the code was coming out much heavier and twisted, and the result was quite inferior to what I was getting from Gecko browsers. It's usable in IE, all right, but there is less flexibility, less control, less precision.
+*/
+
+/* basic elements */
+body { 
+	font: 0.8em/1.3em "Lucida Grande", Verdana, Helvetica, Arial, sans-serif;
+	margin: 0; padding: 0;
+	color: white;
+	background-color: black;
+	}
+p { 
+	margin-top: 0px;
+	margin-bottom: 14px;
+	background-color: transparent;
+	}
+h3 {
+	height: 12px;
+	margin: 24px 0px 10px 0;
+	font: 4pt Arial, sans-serif; /*for IE*/
+	text-indent: -999em;
+	background-color: transparent;
+	}
+a:link { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #308d04;
+	background-color: transparent;
+	}
+a:visited { 
+	font-weight: normal;
+	text-decoration: none; 
+	color: #a2d703;
+	}
+a:hover, a:active { 
+	text-decoration: underline; 
+	color:  #a2d703;
+	}
+acronym { 
+	border-bottom: 0px;
+	}
+#preamble acronym, #explanation acronym, #participation .p2 acronym{ 
+	border-bottom: 1px dotted white; 
+	cursor: default;
+	}
+
+/* specific divs */
+
+
+#container { 
+	margin: 0 212px 0 222px;
+	position: relative;
+	}
+
+* html #container {
+	margin: 0 auto 0 212px;
+	width: 70%; /*for IE 5.5*/
+	w\idth: 53%; /*for IE 6*/
+	}
+	
+/*with left margin and padding you can control how much of the title slides under the left leaf and when the sliding stops*/
+#pageHeader { 
+	background:  url(theBeauty.gif) no-repeat right; 
+	margin: 0px -14% 0 60px; 
+	padding-left: 220px;
+	height: 160px;
+	}
+* html #pageHeader {
+	position: relative;
+	margin: 0px -5% 0 0; 
+	left: 20%;
+	padding-left: 0;
+	}
+#pageHeader h1, #pageHeader h2 {
+	margin: 0; padding: 0;
+	font: 4pt Arial, sans-serif; /*for IE*/
+	text-indent: -999em;
+	}
+	
+/*in a real-life situation, the --#quickSummary-- part as defined below would be unnecessary. It is called forth by the necessity to put two absolutely positioned DIVs one under the other, and that causes overlapping in case the user keeps increasing the text size.*/
+
+#quickSummary {
+	position: absolute;
+	top: 204px;
+	left: -190px;
+	width: 200px;
+	text-indent: -999em;
+	z-index: 2;
+	}
+#quickSummary a {
+	background: url(html.gif) no-repeat left top; 
+	position: absolute;
+	top: 128px;
+	left: 0px;
+	display: block;
+	width: 60px;
+	height: 13px;
+	}
+#quickSummary a +a {
+	background:  url(css.gif) no-repeat left top; 
+	top: 144px;
+	}
+#quickSummary a:visited {
+	background-position: 0 -12px;
+	}
+#quickSummary a:hover {
+	background-position: 0 -24px;
+	}
+#quickSummary a {
+	text-decoration: none;
+	}
+
+/* START --#quickSummary-- for IE part*/
+/* why put the left green leaf here? It's all about whether the title (#pageHeader) and the white text (#supportingText) slide UNDER the left/right leaf or OVER one/another/both/. For the under-sliding, if not for IE's struggle with z-index (even with extraDiv1 set to -1), the left green leaf could've been placed in body part or in extraDiv.*/
+* html #quickSummary {
+	background: url(leafLeft.gif) left top no-repeat;
+	position: absolute;
+	top: 0;
+	left: -212px;
+	width: 333px;
+	height: 1331px;
+	text-indent: -999em;
+	}
+* html #quickSummary .p2 {
+	font: 6pt/0.6 Verdana, sans-serif;
+	position: absolute;
+	top: 330px;
+	left: 32px;
+	text-indent: -999em;
+	}
+* html #quickSummary a {
+	background: none; 
+	font: 8pt/1.0 Verdana, sans-serif;
+	position: static;
+	text-indent: 0;
+	color: white;
+	}
+* html #quickSummary a:visited, * html #quickSummary a:hover {
+	color: #a2d703;
+	}
+* html #quickSummary a:hover {
+	text-decoration: underline; 
+	}
+
+/* END --#quickSummary-- for IE part*/
+
+/* START --#supportingText--: The behavior of the white text within --#supportingText-- is controlled mainly by the width and the left margin. Change percents to fixed units (px) or combine them to achieve different effects. Throw in text-indent, word-spacing, min-width, max-width to suit your needs. You can easily ensure that the text never disappears under the right or left leaf (with average window widths, of course); or vice versa, you can make it disappear now and then, thus encouraging the user to adjust the width of the window until the layout settles into the most pleasing shape for him. Well, I know, I know, the number of users who'll never bother to redraw the window or will be upset by this feature is much greater than the minority I'm counting on, but then again, CSS Zen Garden is hardly some shopping or bank site that is obliged to please each and every bloke out there. */
+#supportingText, #preamble {
+	word-spacing: 0.5em;
+	text-align: center;
+	text-indent: 30%;
+	}
+#supportingText a, #preamble a{
+	word-spacing: 0;
+	}
+
+#preamble h3{
+	background: url(road.gif) no-repeat right;
+/*in the next line, using padding-left with px (instead of percents) ensures that the word 'enlightment' remains visible as the right leaf closes down on the left one. Geckos only */
+	padding-left: 140px;
+	width: 80%;
+	}
+#preamble p {
+	margin-bottom: 12px;
+	}
+#preamble .p1{
+	text-indent: 25%;
+	margin-left: 47%;
+	width: 64%;
+	min-width: 10%;
+	}
+#preamble .p2{
+	margin-left: 35%;
+	width: 70%;
+	}
+#preamble .p3{
+	text-indent: 20%;
+	margin-left: 24%;
+	width: 83%;
+	}
+
+#explanation h3{
+	background: url(sowhat.gif) no-repeat;
+	margin-left: 25%;
+	width: 100%;
+	}
+#explanation .p1{
+	margin-left: 22%;
+	width: 85%;
+	text-indent: 5%;
+	}
+#explanation .p2{
+	margin-left: 18%;
+	width: 80%;
+	}
+
+#participation h3 {
+	background: url(participation.gif) no-repeat right;
+	width: 75%;
+	margin-left: 18%;
+	}
+#participation .p1 {
+	width: 75%;
+	margin-left: 25%;
+	}
+#participation .p2 {
+	text-indent: 25%;
+	width: 87%;
+	margin-left: 20%;
+	}
+#participation .p3 {
+	width: 95%;
+	margin-left: 10%;
+	}
+
+#benefits {
+	width: 85%;
+	margin-left: 10%;
+	}
+#benefits h3 {
+	background: url(benefits.gif) no-repeat right;
+	width: 85%;
+	margin-left: 8%;
+	}
+	
+#requirements h3{
+	background: url(requirements.gif) no-repeat;
+	height: 13px;
+	margin-left: 15%;
+	}
+#requirements p{
+	line-height: 1.4;
+	}
+#requirements .p1{
+	margin-left: -5%;
+	text-indent: 10%;
+	}
+#requirements .p2{
+	margin-left: -15%;
+	text-indent: 8%;
+	}
+#requirements .p3{
+	margin-left: -12%;
+	text-indent: 10%;
+	}
+#requirements .p4{
+	margin-left: -5%;
+	}
+
+#requirements .p5 {
+	font-size: 10pt;
+	margin: 25px 0 0 0;
+	word-spacing: 0.2em;
+	text-indent: 0;
+	}
+#requirements .p5 a{
+	background: url(dreamfs.gif) no-repeat;
+	display: block;
+	position: relative;
+	left: -79px;
+	height: 32px;
+	width: 158px;
+	margin: 5px 0px 0px 50%;
+	text-indent: -999em;
+	}
+#requirements .p5 a:visited, #requirements .p5 a:hover{
+	text-decoration: none;
+	background-position: 0 -32px;
+	}
+	
+#footer { 
+	font-size: 9pt;
+	margin: 20px 0 40px 10px;
+	text-transform: uppercase;
+	text-indent: 0;
+	word-spacing: 0;
+	}
+#footer a {
+	padding-right: 10px;
+	}
+/* END --#supportingText--*/
+
+/* START --#linkList-- */
+#linkList {
+	position: absolute; 
+	z-index: 2;
+	top: 388px; 
+	left: -190px;
+	width: 200px;
+	}
+#linkList ul {
+	margin: 0; padding: 0; list-style: none;
+	}
+#linkList ul li{
+	font-size: 8pt;
+	line-height: 1.4em;
+	color: black;
+	}
+#linkList a {
+	font-size: 9pt;
+	line-height: 1.4em;
+	font-weight: normal;
+	color: white;
+	}
+
+#lselect h3 {
+	margin: 0;
+	}
+#lselect li a {
+	padding-top: 3px;
+	display: block;
+	}
+#lselect li a.c {
+	display: inline;
+	font-size: 8pt;
+	font-weight: bold;
+	color: black;
+	}
+	
+#larchives h3 {
+	background: url(archives.gif) no-repeat;
+	height: 14px;
+	margin: 20px 0 4px 0px;
+	}
+#larchives ul li {
+	text-transform: lowercase;
+	}
+#larchives a, #lresources a {
+	background-color: #308d04;
+	color: black;
+	}
+	
+#lresources h3 {
+	background: url(resources.gif) no-repeat;
+	height: 14px;
+	margin: 20px 0 4px 0px;
+	}
+	
+#linkList a:visited, #linkList a:hover {
+	color: #a2d703;
+	}
+/* END --#linkList--*/
+
+/* START --#extraDiv-- */
+#extraDiv1 { 
+	background: transparent  url(leafLeft.gif) no-repeat;	
+	position: absolute; 
+	top: 0px; 
+	left: 0px; 
+	width: 333px; 
+	height: 1331px;
+	z-index: 0;
+	}
+#extraDiv2 { 
+	background: transparent url(leafRight.gif) no-repeat; 
+	position: absolute; 
+	top: 0px; 
+	right: 0px; 
+	width: 212px; 
+	height: 1289px;
+	z-index: 0;
+	}
+/* END --#extraDiv-- */
+
+/*START recoding --#preamble-- and --#supportingText-- parts for IE*/
+/*It's OK for some CSS guru to ridicule me for the following, in case it could've been done in a more elegant way. But after the ease of adjusting the margins and layers for Gecko browsers I got so frustrated by IE's 'fixing this breaks that', that I jumped out of it as soon as it started to hold at least some resemblance to it's Gecko counterparts.*/ 
+* html #supportingText, * html #preamble {
+	text-indent: 20%;
+	}
+* html #supportingText h3, * html #preamble h3, * html #supportingText p, * html #preamble p  {
+	position: relative;
+	}
+
+* html #preamble h3{
+	left: 16%;
+	lef\t: 12%;
+	width: 70%;
+	padding-left: 0;
+	margin-left: 15%;
+	}
+* html #preamble .p1{
+	text-indent: 15%;
+	left: 18%;
+	width: 70%;
+	margin-left: 8%;
+	}
+* html #preamble .p2{
+	left: 22%;
+	lef\t: 20%;
+	width: 75%;
+	w\idth: 70%;
+	margin-left: 14%;
+	}
+* html #preamble .p3{
+	text-indent: 18%;
+	left: 25%;
+	width: 80%;
+	margin-left: 0;
+	}
+
+* html #explanation h3{
+	left: 35%;
+	width: 90%;
+	margin-left: 0;
+	}
+* html #explanation .p1{
+	left: 18%;
+	width: 80%;
+	margin-left: 0;
+	}
+* html #explanation .p2{
+	left: 12%;
+	width: 75%;
+	margin-left: 0;
+	}
+
+* html #participation h3 {
+	left: 16%;
+	width: 75%;
+	margin-left: 0;
+	}
+* html #participation .p1 {
+	text-indent: 10%;
+	left: 26%;
+	width: 75%;
+	margin-left: 0;
+	}
+* html #participation .p2 {
+	left: 18%;
+	width: 95%;
+	margin-left: 0;
+	}
+* html #participation .p3 {
+	left: 15%;
+	width: 100%;
+	margin-left: 0;
+	}
+
+* html #benefits {
+	left: 10%;
+	width: 85%;
+	margin-left: 0;
+	}
+* html #benefits h3 {
+	left: 8%;
+	width: 65%;
+	margin-left: 0;
+	}
+
+* html #requirements {
+	width: 100%;
+	}
+* html #requirements h3{
+	left: 15%;
+	margin-left: 0;
+	}
+* html #requirements .p1{
+	text-indent: 12%;
+	left: -5%;
+	margin-left: 0;
+	}
+* html #requirements .p2{
+	left: -15%;
+	margin-left: 0;
+	}
+* html #requirements .p3{
+	left: -12%;
+	margin-left: 0;
+	}
+* html #requirements .p4{
+	left: -5%;
+	margin-left: 0;
+	}
+* html #requirements .p5, * html #footer  {
+	font-size: 10pt;
+	}
+
+* html #requirements .p5 a{
+	position: static;
+	margin-left: 0;
+	}
+
+* html #linkList {
+	left: -179px;
+	}
+
+* html #extraDiv1 {
+	display: none;
+	}
+
+/*END recoding --#supportingText-- and --#preamble-- parts for IE*/

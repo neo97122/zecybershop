@@ -1,0 +1,247 @@
+body {
+background-color:#FFFFFF;
+margin:0px 0px 0px 50px;
+padding:0px;
+width:610px;
+}
+p {
+color:#000000;
+font-family:Arial,sans-serif;
+font-size:10px;
+}
+acronym {
+border-bottom:1px dotted #000000;
+cursor:help;
+}
+#pageHeader {
+background-image:url(01.gif);
+height:290px;
+margin:0px;
+padding:0px;
+position:absolute;
+width:610px;
+}
+#pageHeader h1 span, #pageHeader h2 span, #quickSummary p.p1 span {
+display:none;
+}
+#quickSummary p.p2 span {
+color:#FFFFFF;
+float:right;
+font-family:Georgia,serif;
+font-size:10px;
+margin-left:26px;
+margin-top:950px;
+position:absolute;
+width:140px;
+z-index:1;
+}
+#quickSummary p.p2 span a {
+color:#FFFFFF;
+font-family:Georgia,serif;
+font-size:10px;
+text-decoration:underline;
+}
+#quickSummary p.p2 span a:hover {
+color:#FFFFFF;
+font-family:Georgia,serif;
+font-size:10px;
+text-decoration:none;
+}
+#container {
+margin:0px;
+padding:0px;
+}
+#supportingText {
+margin-top:290px;
+padding:0px;
+position:absolute;
+}
+#preamble {
+margin-left:185px;
+margin-top:300px;
+position:absolute;
+width:195px;
+}
+#preamble h3 span {
+display:none;
+}
+#preamble h3 {
+background-image:url(a.gif);
+height:19px;
+width:193px;
+}
+#explanation {
+margin-left:400px;
+margin-top:10px;
+position:absolute;
+width:195px;
+}
+#explanation h3 span {
+display:none;
+}
+#explanation h3 {
+background-image:url(b.gif);
+height:19px;
+width:193px;
+}
+#participation {
+margin-left:185px;
+margin-top:300px;
+position:absolute;
+width:195px;
+}
+#participation h3 span {
+display:none;
+}
+#participation h3 {
+background-image:url(c.gif);
+height:19px;
+width:193px;
+}
+#benefits {
+margin-left:400px;
+margin-top:380px;
+position:absolute;
+width:195px;
+}
+#benefits h3 span {
+display:none;
+}
+#benefits h3 {
+background-image:url(d.gif);
+height:19px;
+width:193px;
+}
+#requirements {
+margin-left:185px;
+margin-top:700px;
+position:absolute;
+width:195px;
+}
+#requirements h3 span {
+display:none;
+}
+#requirements h3 {
+background-image:url(e.gif);
+height:19px;
+width:193px;
+}
+#footer {
+height:20px;
+margin-left:0px;
+margin-top:1400px;
+padding:10px;
+position:absolute;
+text-align:center;
+width:690px;
+}
+#footer a {
+color:#000000;
+font-family:Arial,sans-serif;
+font-size:10px;
+text-decoration:underline;
+}
+#footer a:hover {
+color:#000000;
+font-family:Arial,sans-serif;
+font-size:10px;
+text-decoration:none;
+}
+#preamble a, #explanation a, #participation a, #benefits a, #requirements a {
+color:#FF6600;
+text-decoration:underline;
+}
+#preamble a:hover, #explanation a:hover, #participation a:hover, #benefits a:hover, #requirements a:hover {
+color:#666666;
+text-decoration:none;
+}
+#linkList {
+margin-top:300px;
+position:absolute;
+width:173px;
+}
+#linkList2 {
+background-color:#000000;
+border-left:12px solid #FFCC33;
+color:#FFFFFF;
+height:1430px;
+padding:5px;
+}
+#lselect ul {
+color:#FFFFFF;
+font-family:Georgia,sans-serif;
+font-size:10px;
+list-style-type:square;
+margin-left:18px;
+padding:0px;
+}
+#lselect ul li {
+color:#FFFFFF;
+font-family:Georgia,sans-serif;
+font-size:10px;
+padding:5px;
+}
+#lselect ul li a {
+color:#FFCC33;
+display:block;
+font-family:Arial,sans-serif;
+font-size:11px;
+text-decoration:underline;
+text-transform:uppercase;
+}
+#lselect ul li a:hover {
+color:#FFCC33;
+display:block;
+font-family:Arial,sans-serif;
+font-size:11px;
+text-decoration:none;
+text-transform:uppercase;
+}
+#lselect ul li a.c {
+color:#FFFFFF;
+display:inline;
+font-family:Georgia,serif;
+font-size:10px;
+position:relative;
+text-decoration:underline;
+text-transform:lowercase;
+}
+#lselect ul li a.c:hover {
+color:#FFFFFF;
+display:inline;
+font-family:Georgia,serif;
+font-size:10px;
+position:relative;
+text-decoration:none;
+text-transform:lowercase;
+}
+#lselect h3 span, #larchives h3 span, #lresources h3 span {
+font-family:Georgia,serif;
+font-size:14px;
+margin:10px;
+}
+#larchives ul, #lresources ul {
+color:#FFFFFF;
+font-family:Georgia,serif;
+font-size:10px;
+list-style-type:none;
+margin:10px;
+padding:0px;
+}
+#larchives ul li, #lresources ul li {
+color:#FFFFFF;
+font-family:Georgia,serif;
+font-size:10px;
+}
+#larchives ul li a, #lresources ul li a {
+color:#FFFFFF;
+font-family:Georgia,serif;
+font-size:10px;
+text-decoration:underline;
+}
+#larchives ul li a:hover, #lresources ul li a:hover {
+color:#FFFFFF;
+font-family:Georgia,serif;
+font-size:10px;
+text-decoration:none;
+}
