@@ -1,0 +1,4 @@
+<li>HD-Ready : Résolution de 1366 x 768</li>
+<li>Contraste de 1200:1 et luminosité de 450 cd/m²</li>
+<li>Tuner TNT intégré</li>
+<li>Double prise HDMI</li>

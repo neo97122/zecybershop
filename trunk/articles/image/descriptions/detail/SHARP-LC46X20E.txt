@@ -1,0 +1,32 @@
+<div class="border2 fpContainerTab">
+<h3 class="fpTitrePres fpDegrade text"><a name="pres"/>Présentation - Téléviseur LCD - 16/9 - 46'' - 116cm - Full HD - TNT - LC46X20E</h3>
+<div class="fpPres">
+<b>Téléviseur LCD Full-HD 16/9 - TNT intégrée - 46'' - 116 cm - SHARP LC46X20E</b><br/><br/>
+<b><u>Caractéristiques et avantages du téléviseur SHARP LC52X20E</u></b><br/><br/>
+<li>Panneau LCD «BLACK TFT» : aucun reflet, même en pleine lumière</li><li>Technologie «ASV» : large angle de vision horizontal et vertical (176°/176°)</li>
+<li>Full HD : dalle très haute résolution: 1080 lignes</li><li>Rétroéclairage à 4 longueurs d’onde : un meilleur rendu de rouge et des couleurs chair</li>
+<li>AquosPixel System III : une image plus définie, pas de saccades sur les travelling, plus de contraste, lissage des diagonales</li>
+<li>Traitement vidéo 10 Bit : pour une meilleure reproduction des palettes de couleurs</li><li>Entrée composante : pour une meilleure qualité d'image 
+avec une source DVD</li><li>Entrée VGA Sub-D15 : pour connecter un PC</li><li>3 entrées HDMI (1.3) compatibles 1080p</li><li>Sortie optique 
+numérique : pour récupérer le son numérique de la TNT (Dolby Digital sur certaines chaines)</li>
+<li>Tuner TNT intégré : Pour recevoir 18 chaînes gratuites</li>
+<li>Grande luminosité 450 cd/m2</li><li>Fort ratio de contraste 2 000 :1 : plus de détail sur les scènes sombres ou surexposées</li>
+<li>«Quick Shoot»(temps de réponse : 4 ms) : une parfaite fluidité sur les mouvements</li>
+<li>Amplification numérique : un son d’une grande pureté, même à fort niveau</li>
+<li>Fonction Surround : des effets surround, sans enceintes arrières</li>
+<li>Fonction «ClearVoice» : amélioration de l’intelligibilité sur les dialogues</li>
+<li>Fonction «Auto volume control» : régulation automatique du volume sonore entre pages de Pub et programmes</li>
+<li>Capteur OPC : contrôle automatique du rétro-éclairage en fonction de la luminosité ambiante</li>
+<li>Garantie SHARP : 2 ans sur site<br/><br/><br/>
+Depuis sa création en 1912, le groupe SHARP mobilise sa capacité créative. Il invente des produits novateurs et 
+uniques pour améliorer le confort et le bien être du consommateur et de l'entreprise.<br/><br/>
+Conscient de la nécessité de préserver notre planète, Sharp entend mener une politique de protection de 
+l'environnement selon 4 principes fondamentaux :</li><li>les produits verts (dès la conception du produit, 
+selon des normes strictes)</li><li>les usines vertes (avec norme ISO 14001)</li><li>le développement de la 
+conscience écologique des salariés du groupe</li><li>la mise en place de systèmes de recyclage<br/><br/></li>
+</div>
+<h3 class="fpTitrePres fpDegrade text"><a name="ct"/>Caractéristiques techniques - Téléviseur LCD - 16/9 - 46'' - 116cm - Full HD - TNT - LC46X20E</h3>
+<table cellspacing="0" cellpadding="4" border="0" class="fpTabProductRecords border2"><tbody><tr valign="top"><td width="30%" class="left bg">Diagonale en cm :</td><td width="70%" class="right bg"> 116</td></tr><tr valign="top"><td class="left1 border">Format :</td><td class="right"> 16/9</td></tr><tr valign="top"><td class="left bg">Résolution :</td><td class="right bg"> Full-HD 1920 x 1080</td></tr><tr valign="top"><td class="left1 border">Luminosité :</td><td class="right"> 450 cd/m²</td></tr><tr valign="top"><td class="left bg">Ratio de contraste :</td><td class="right bg"> 2000:1 / 10 000:1 (dynamique)</td></tr><tr valign="top"><td class="left1 border">Angle de vision :</td><td class="right"> 176 degrés en verticale et horizontale</td></tr><tr valign="top"><td class="left bg">Fonction d'amélioration de l'image :</td><td class="right bg"> <li>RGB Plus</li><li>Pure Black Panel<br/><br/></li></td></tr><tr valign="top"><td class="left1 border">Tuner :</td><td class="right"> Tuner TNT</td></tr><tr valign="top"><td class="left bg">Télétexte :</td><td class="right bg"> Oui (2000 pages)</td></tr><tr valign="top"><td class="left1 border">Audio :</td><td class="right"> 2 x 15 Watts</td></tr><tr valign="top"><td class="left bg">Entrées :</td><td class="right bg"> <li>2 Péritels</li><li>S-Vidéo</li><li>Entrée composante via sub D-15</li><li>Entrée vidéo composite cinch</li><li>Audio (D/G)<br/><br/></li></td></tr><tr valign="top"><td class="left1 border">Autres Entrées/Sorties :</td><td class="right"> <li>Informatique RVB (sub D-15)</li><li>3 entrées HDMI (HDCP)</li><li>Prise antenne (DIN)</li><li>Sortie Casque</li><li>Sortie audio</li><li>RS-232C<br/><br/></li></td></tr><tr valign="top"><td class="left bg">Système vidéo :</td><td class="right bg"> <li>PAL-B/G, PAL-D/K, PAL-I</li><li>SECAM-LL´, SECAM-B/G, SECAM-D/K</li><li>Tuner TNT, Satellite</li><li>NTSC (système vidéo uniquement)<br/><br/></li></td></tr><tr valign="top"><td class="left1 border">Système audio :</td><td class="right"> <li>Fonction Surround</li><li>Contrôle automatique du volume</li><li>Fonction "voix claires"</li><li>Stéréo NICAM<br/><br/></li></td></tr><tr valign="top"><td class="left bg">Prise casque :</td><td class="right bg"> Oui</td></tr><tr valign="top"><td class="left1 border">Dimensions :</td><td class="right"> <li>Avec pied : 1101 x 760 x 325 mm (LxHxP)</li><li>Sans pied : 1101 x 698 x 95 mm (LxHxP)<br/><br/></li></td></tr><tr valign="top"><td class="left bg">Poids :</td><td class="right bg"> Avec pied : 30 Kg</td></tr><tr valign="top"><td class="left1 border">Garantie :</td><td class="right"> 2 ans sur site</td></tr><tr valign="top"><td class="left bg">Télécommande :</td><td class="right bg"> Oui</td></tr><tr valign="top"><td class="left1 border">Consommation en fonction / en veille :</td><td class="right"> 257W / 0.5W</td></tr>
+</tbody>
+</table>
+</div>

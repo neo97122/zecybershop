@@ -1,0 +1,8 @@
+<li>Capteur CCD 800 000 pixels</li>
+<li>Ecran LCD 2,5" - Zoom optique 30 x</li>
+<li>Zoom numérique : 1000 x</li>
+<li>Stabilisateur d’image numérique</li>
+<li>Chargeur externe</li>
+<li>Navigation par joystick</li>
+<li>Sortie DV</li>
+<li>410 g</li>

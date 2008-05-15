@@ -1,0 +1,6 @@
+<li>Capteur CCD de 1/6'' Advanced HAD de 800 000 pixels</li>
+<li>Optique Carl Zeiss Vario Tessar 40x</li>
+<li>Zoom optique x40</li>
+<li>Stabilisateur Super SteadyShot</li>
+<li>Écran LCD 2.5'' tactile</li><li>Bouton « Easy »</li>
+<li>Autonomie de 14 heures pour les prises de vue prolongées</li>

@@ -1,0 +1,6 @@
+<li>Téléviseur Full HD : 1920 x 1080p.</li>
+<li>Contraste 1800:1 (dynamique 16000:1)</li>
+<li>Luminosité de 500 cd/m²</li>
+<li>Tuner TNT</li>
+<li>2 prises HDMI</li>
+<li>Processeur d'image "Bravia Engine".</li>

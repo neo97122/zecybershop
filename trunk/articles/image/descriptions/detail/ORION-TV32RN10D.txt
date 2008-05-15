@@ -1,0 +1,34 @@
+<div class="border2 fpContainerTab">
+<h3 class="fpTitrePres fpDegrade text"><a name="pres"/>Présentation - Téléviseur LCD - 16/9 - 32'' - 82cm - HD Ready - TNT - 32RN10</h3>
+<div class="fpPres">
+<strong>Caractéristiques principales :</strong><ul style="margin: 5px 0px 0px 30px;"><li>Téléviseur 32'' (82 cm) avec tuner TNT intégré</li>
+<li>Luminosité de 450 cd/m²</li><li>Résolution de 1366 x 768 pixels (W-XGA)</li><li>Contraste de 1200:1</li>
+<li>Angle de visualisation de 176° (H/V)</li></ul>
+</div>
+<h3 class="fpTitrePres fpDegrade text"><a name="ct"/>Caractéristiques techniques - Téléviseur LCD - 16/9 - 32'' - 82cm - HD Ready - TNT - 32RN10</h3>
+<table cellspacing="0" cellpadding="4" border="0" class="fpTabProductRecords border2">
+<tbody><tr valign="top"><td width="30%" class="left bg">Diagonale en pouce / cm :</td>
+<td width="70%" class="right bg"> 32 / 82</td></tr><tr valign="top"><td class="left1 border">Format :</td>
+<td class="right"> 16/9</td></tr><tr valign="top">
+<td class="left bg">Résolution :</td><td class="right bg"> 1366 x 768</td>
+</tr><tr valign="top"><td class="left1 border">Luminosité :</td><td class="right"> 450 cd/m²</td></tr>
+<tr valign="top"><td class="left bg">Ratio de contraste :</td><td class="right bg"> 1200:1</td></tr>
+<tr valign="top"><td class="left1 border">Angle de vision :</td><td class="right"> 176° / 176°</td></tr>
+<tr valign="top"><td class="left bg">Nombre de couleurs :</td><td class="right bg"> NC</td></tr><tr valign="top">
+<td class="left1 border">Fonction d'amélioration de l'image :</td><td class="right"> NC</td></tr><tr valign="top">
+<td class="left bg">Fréquence de balayage :</td><td class="right bg"> 50 / 60 Hz</td></tr><tr valign="top">
+<td class="left1 border">Temps de réponse :</td><td class="right"> 8 ms</td></tr><tr valign="top">
+<td class="left bg">Tuner :</td><td class="right bg"> <li>Tuner analogique</li><li>Tuner numérique (TNT)<br/>
+<br/></li></td></tr><tr valign="top"><td class="left1 border">Télétexte :</td><td class="right"> Oui, 256 pages</td>
+</tr><tr valign="top"><td class="left bg">Audio :</td><td class="right bg"> <li>Puissance de 2 x 10 W</li>
+<li>Son surround<br/><br/></li></td></tr><tr valign="top"><td class="left1 border">Connectique générale :</td>
+<td class="right"> <li>2 x Péritels</li><li>2 x HDMI</li><li>1 x Entrée audio-vidéo</li><li>1 x Prise casque<br/>
+<br/></li></td></tr><tr valign="top"><td class="left bg">Connectique en façade / de côté :</td><td class="right bg"> NC</td></tr>
+<tr valign="top"><td class="left1 border">Prise casque :</td><td class="right"> Oui</td></tr>
+<tr valign="top"><td class="left bg">Slot carte mémoire :</td><td class="right bg"> Non</td></tr>
+<tr valign="top"><td class="left1 border">Dimensions :</td><td class="right"> 822(L) x 604(H) x 282(P)mm</td></tr>
+<tr valign="top"><td class="left bg">Poids :</td><td class="right bg"> 17.5 kg</td></tr><tr valign="top"><td class="left1 border">Garantie :</td>
+<td class="right"> 1 an</td></tr><tr valign="top"><td class="left bg">Télécommande :</td><td class="right bg"> Oui</td></tr>
+<tr valign="top"><td class="left1 border">Consommation en fonction / en veille :</td><td class="right"> NC</td></tr></tbody>
+</table>
+</div>

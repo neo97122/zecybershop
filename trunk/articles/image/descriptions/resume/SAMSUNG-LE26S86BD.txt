@@ -1,0 +1,6 @@
+<li>Téléviseur HD Ready</li>
+<li>Taux de contraste dynamique 4000:1</li>
+<li>Luminosité 500 cd/m²</li>
+<li>Double tuner analogique/TNT</li>
+<li>Double connectique HDMI</li>
+<li>Mode jeu<br/><br/></li>

@@ -1,0 +1,46 @@
+<div class="border2 fpContainerTab">
+<h3 class="fpTitrePres fpDegrade text"><a name="pres"/>Présentation - Téléviseur LCD - 16/9 - 40'' - 102cm - Full HD - TNT - LE40A558</h3>
+<div class="fpPres">
+<blockquote>
+<b>Full HD</b><br/><br/>
+Les téléviseurs Full HD à 1080 lignes de Samsung offrent la résolution la plus élevée possible sur un écran LCD. L’écran Full HD de 1920 x 1080 pixels affiche 1,5 fois plus de lignes qu’un téléviseur LCD normal. Au final, vous bénéficiez d’une image encore plus nette, plus détaillée et plus contrastée pour un plaisir visuel sans précédent.<br/><br/>
+<b>Technologie 100Hz Motion Plus</b><br/><br/>
+La technologie 100Hz Motion Plus intégrée au Samsung F8 assure une meilleure fluidité des mouvements en doublant le débit d’image qui atteint alors 100 images par seconde (écran LCD 100Hz). De plus, au lieu de se contenter de copier une image déjà existante, le processeur Motion Plus effectue des calculs pour créer une nouvelle image entre chaque paire d’images consécutives.<br/><br/>
+<b>Super Clear Panel</b><br/><br/>
+Equipés de dalles Super Clear Panel, les téléviseurs LCD Full HD à haute définition de Samsung offrent la qualité d’image la plus claire et la plus nette que vous ayez jamais vue. Grâce au film reflétant sur le panneau LCD le téléviseur obtient un taux de contraste supérieur et les reflets de la lumière du soleil ou artificielles fortes sont minimiser. Combinée avec la haute résolution en 1080p, cette technologie vous garantit le niveau de noir, et donc le contraste, le plus réaliste.<br/><br/>
+<b>Wide Color Enhancer</b><br/><br/>
+La luminosité (luminance) est un facteur qui influence le rendu des couleurs. Le bleu et le vert sont des couleurs pâles qui sont particulièrement sensibles à la luminosité. Le rendu des couleurs peut ainsi paraître terne ou fade dans les scènes claires. La fonction Wide Color Enhancer de Samsung corrige ce défaut.<br/><br/>
+<b>Movie Plus</b><br/><br/>
+Les films d’origine sont filmés au rythme de 24, 25 ou 30 images par seconde. Les téléviseurs sont cependant capables d’afficher davantage d’images par seconde et augmentent donc automatiquement le nombre d’images. La technologie Movie Plus augmente le nombre d’images en évaluant la position de l’objet en mouvement. Les images animées gagnent ainsi en fluidité.<br/><br/>
+<b>3x HDMI</b><br/><br/>
+La connectique HDMI est une interface numérique qui permetde véhiculer une image et un son de haute qualité vers votre téléviseur. Vous pouvez ainsi profiter pleinement des fonctionnalités de votre PC, votre récepteur numérique ou votre lecteur de DVD sur votre téléviseur.<br/><br/>
+<b>Support pivotant (manuel)</b><br/>
+Ce support pivotant vous permet d’orienter votre téléviseur à votre guise.<br/><br/>
+<b>Mode jeu</b><br/><br/>
+Appuyez sur cette touche de la télé commande afin de sélectionner une configuration spéciale pour un plaisir de jeu optimal.<br/><br/>
+</blockquote>
+</div>
+<h3 class="fpTitrePres fpDegrade text"><a name="ct"/>Caractéristiques techniques - Téléviseur LCD - 16/9 - 40'' - 102cm - Full HD - TNT - LE40A558</h3>
+<table cellspacing="0" cellpadding="4" border="0" class="fpTabProductRecords border2">
+<tbody>
+<tr valign="top"><td width="30%" class="left bg">Diagonale en pouce / cm :</td><td width="70%" class="right bg"> 40 / 102</td></tr>
+<tr valign="top"><td class="left1 border">Format :</td><td class="right"> 16/9</td></tr>
+<tr valign="top"><td class="left bg">Résolution :</td><td class="right bg"> 1920 x 1080 (Full HD)</td></tr>
+<tr valign="top"><td class="left1 border">Luminosité :</td><td class="right"> NC</td></tr>
+<tr valign="top"><td class="left bg">Ratio de contraste :</td><td class="right bg"> 30 000:1</td></tr>
+<tr valign="top"><td class="left1 border">Angle de vision :</td><td class="right"> NC</td></tr>
+<tr valign="top"><td class="left bg">Nombre de couleurs :</td><td class="right bg"> NC</td></tr>
+<tr valign="top"><td class="left1 border">Fonction d'amélioration de l'image :</td>
+<td class="right"> <li>Sublimateur de couleur II</li><li>DNIe</li><li>Movie Plus</li>
+<li>24p Real Movie<br/><br/></li></td></tr><tr valign="top"><td class="left bg">Fréquence de balayage :</td>
+<td class="right bg"> 50 / 60 Hz</td></tr><tr valign="top"><td class="left1 border">Temps de réponse :</td>
+<td class="right"> NC</td></tr><tr valign="top"><td class="left bg">Tuner :</td><td class="right bg"> 
+<li>Tuner analogique</li><li>Tuner TNT<br/><br/></li></td></tr><tr valign="top"><td class="left1 border">Télétexte :</td>
+<td class="right"> Oui, 1000 pages mémorisables</td></tr><tr valign="top"><td class="left bg">Audio :</td><td class="right bg"> 
+<li>2 x 10 Watts</li><li>A2/Nicam</li><li>SRS TruSurround<br/><br/></li></td></tr><tr valign="top"><td class="left1 border">Connectique générale :</td>
+<td class="right"> <li>2 x Entrées HDMI v1.3</li><li>2 x Péritels</li><li>1 x Entrée PC</li><li>1 x Entrée Vidéo Composante</li><li>1 x Entrée antenne</li>
+<li>1 x Sortie audio numérique optique</li><li>1 x Entrée Audio G/D<br/><br/></li></td></tr><tr valign="top"><td class="left bg">Connectique en façade / de côté :</td><td class="right bg"> <li>1 x Entrée HDMI v1.3</li><li>1 x Entrée Composite</li><li>1 x Entrée S-Vidéo</li><li>1 x Prise casque</li><li>1 x Port USB 2.0 WISELINK JPEG<br/><br/></li></td></tr><tr valign="top"><td class="left1 border">Prise casque :</td><td class="right"> Oui</td></tr><tr valign="top"><td class="left bg">Slot carte mémoire :</td><td class="right bg"> Non</td></tr><tr valign="top"><td class="left1 border">Dimensions :</td><td class="right"> <li>Dimensions avec pied : 996.5(L) x 686.1(H) x 300(P)mm</li><li>Dimensions sans pied : 996.5(L) x 628.3(H) x 92.4(P)mm<br/><br/></li></td></tr><tr valign="top"><td class="left bg">Poids :</td><td class="right bg"> <li>Poids avec pied : 21.2 kg</li><li>Poids sans pied : 18 kg<br/><br/></li></td></tr><tr valign="top"><td class="left1 border">Garantie :</td><td class="right"> 2 ans sur site</td></tr><tr valign="top"><td class="left bg">Télécommande :</td><td class="right bg"> Oui</td></tr><tr valign="top"><td class="left1 border">Consommation en fonction / en veille :</td>
+<td class="right"> 200 Watts / 1 Watt</td></tr>
+</tbody>
+</table>
+</div>

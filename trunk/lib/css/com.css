@@ -1,0 +1,186 @@
+HTML,BODY{
+	margin:auto;
+	padding:0;
+	height:100%;	
+	width:100%;
+	overflow-y:hidden
+}   
+
+body ,TEXTAREA, SELECT, INPUT
+{
+	font-size:0.69em;
+	font-family:Verdana,Tahoma,Arial,sans-serif;
+	line-height:normal; 
+	color: #444444;
+	background-color: #FFFFFF; 
+}
+
+A
+{
+	text-decoration:none;
+}
+
+H2
+{
+    font-family: Verdana,Tahoma,Arial,sans-serif;
+    font-size: 132%;
+	color:#444444;
+}
+
+/* L'en-tête */
+
+#en_tete
+{
+   height      : 10%;
+   background  : #0066A7 url("img/bg_entete.png") top;   
+   
+   background-repeat: repeat-x;
+   width:99.8% ;
+   margin:auto;
+   padding:0px;
+   margin-bottom: 10px;
+   border:1px solid #CCCCCC; 
+}
+
+#hdr *     { line-height:normal }    
+#hdr img,                            
+#hdr input { vertical-align:middle } 
+#hdr td    { padding:0; white-space:nowrap }
+#hdr ul    { list-style:none }
+#hdr li    { margin:0 } 
+
+
+/* Le menu */
+#menu
+{
+	background-image: url("http://gfx2.hotmail.com/mail/w2/ltr/theme0/ContainerBGImage.gif");
+	background-repeat:repeat-x;
+	background-position:right bottom;
+   float: left;
+   width: 19em;
+	border:1px solid #CCCCCC; 
+	padding:2px;
+	height:87%;
+	margin-left:3px;
+	margin-bottom:10px;
+	
+}
+
+.element_menu
+{
+  background-color: #d9f1f9;
+   background-image: url("http://gfx1.hotmail.com/mail/w2/ltr/standard_rest.gif");
+   background-repeat: repeat-x;
+   width:100%; 
+   font-size:100%; 
+   color:#0068CF; 
+   background-color:Transparent;
+   margin-bottom: 20px;
+}
+
+
+/* Quelques effets sur les menus */
+
+
+.element_menu h3
+{    
+   color: #B3B3B3;
+   font-family: trebuchet MS, Arial, "Arial Black", "Times New Roman", Times, serif;
+   text-align: center;
+}
+
+.element_menu ul
+{
+   white-space:nowrap;
+   list-style: none;
+   padding: 0px;
+   padding-left: 5px;   
+   padding-right: 5px;
+   margin: 0px;
+   margin-bottom: 5px;
+}
+
+.element_menu li
+{
+   padding:0 ; 
+   white-space:nowrap; 
+   border:1px solid #CCCCCC;  
+   position:relative;
+}
+
+.element_menu A
+{
+    display: block;
+    padding: 3px 5px 3px 5px; 
+	overflow: hidden;
+	text-overflow: ellipsis;
+
+	color: #444444;
+	background-image: url(http://gfx2.hotmail.com/mail/w2/ltr/theme0/sc_rest.gif);
+    border-bottom: solid 1px #dbdce3;
+}
+
+.element_menu a:hover
+{
+	background-image: url(http://gfx2.hotmail.com/mail/w2/ltr/theme0/sc_hover.gif);
+	text-decoration:underline;
+}
+
+.element_menu a:visited
+{
+	background-image: url(http://gfx1.hotmail.com/mail/w2/ltr/theme0/sc_press.gif);
+}
+
+
+/* Le corps de la page */
+
+#corps
+{
+	background-image: url("http://gfx2.hotmail.com/mail/w2/ltr/theme0/ContainerBGImage.gif");
+	background-repeat:repeat-x;
+	background-position:right bottom;
+	border:1px solid #CCCCCC; 
+	height:79%;
+      overflow:hidden;
+   margin-left:5px;
+   margin-bottom: 10px;
+   margin-right: 2px;
+   padding: 5px;   
+   color: #B3B3B3;   
+}
+
+#corps h1
+{
+   color: #B3B3B3;
+   text-align: center;
+   font-family: Arial, "Arial Black", "Times New Roman", Times, serif;
+}
+
+#corps h2
+{
+   height: 30px;
+
+   background-image: url("images/titre.png");
+   background-repeat: no-repeat;
+   
+   padding-left: 30px;
+   color: #B3B3B3;
+   text-align: left;
+}
+
+
+/* Le pied de page */
+
+#pied_de_page
+{
+   height:3em;
+   padding:.3em 0 .69em 1em;
+   overflow:hidden;
+   margin-left:5px;
+   margin-right:2px;
+   text-align: center;
+   color: #B3B3B3;
+   background-color: #626262;
+     background: #E9F9FF url(http://gfx1.hotmail.com/mail/w2/ltr/theme0/ToolbarBG.gif) repeat-x ;   
+   border:1px solid #CCCCCC; 
+}

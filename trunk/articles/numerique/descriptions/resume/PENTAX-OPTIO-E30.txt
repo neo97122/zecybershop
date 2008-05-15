@@ -1,0 +1,4 @@
+<li>7 Mégapixels</li>
+<li>Zoom Optique 3x - Equivalent : 36 - 108 mm</li>
+<li>Ecran TFT 2.4"</li><li>Compatible SD/SDHC</li>
+<li>Piles de Type AA</li>

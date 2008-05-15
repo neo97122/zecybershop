@@ -1,0 +1,7 @@
+<li>Téléviseur Full HD : Résolution de 1920 x 1080</li>
+<li>Contraste 15000:1</li>
+<li>Luminosité de 500 cd/m²</li>
+<li>Triple entrée HDMI</li>
+<li>Optimisation d'image XD Engine</li>
+<li>Tuner compatible MPEG4</li>
+<li>Pied rotatif</li>
