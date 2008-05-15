@@ -1,0 +1,5 @@
+<li>Téléviseur Full HD : 1920 x 1080p</li><li>Contraste dynamique de 5000:1</li>
+<li>Luminosité de 500 cd/m²</li>
+<li>Tuner TNT avec guide éléctronique des programmes</li>
+<li>Entrée HDMI double</li>
+<li>Pixel Plus HD : plus de détails, de profondeur et de clarté</li>

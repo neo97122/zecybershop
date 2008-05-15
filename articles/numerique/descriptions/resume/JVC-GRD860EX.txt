@@ -1,0 +1,6 @@
+<li>Camescope numérique Mini DV</li>
+<li>Capteur CCD 800 000 pixels</li>
+<li>Objectif KONICA MINOLTA</li>
+<li>Zoom optique 35x</li>
+<li>Mode photo sur carte SD/MMC</li>
+<li>Ecran LCD 2.7'' rétro-éclairé</li>

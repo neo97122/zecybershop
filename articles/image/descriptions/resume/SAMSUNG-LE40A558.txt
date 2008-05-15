@@ -1,0 +1,5 @@
+<li>Téléviseur Full HD : 1920 x 1080p</li>
+<li>Contraste 30 000:1</li>
+<li>3 entrées HDMI (dont une latérale)</li>
+<li>Port USB 2.0</li>
+<li>Sublimateur de couleurs</font></li>

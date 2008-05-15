@@ -1,0 +1,6 @@
+<li>Téléviseur HD-Ready : résolution de 1366 x 768</li>
+<li>Contraste dynamique 6000:1</li>
+<li>Luminosité 500 cd/m²</li>
+<li>Tuner TNT avec guide éléctronique des programmes</li>
+<li>Entrée HDMI double</li>
+<li>Pixel Plus HD pour plus de détails, de profondeur et de clarté</li>

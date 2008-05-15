@@ -1,0 +1,46 @@
+Alors pour le numérique (apn bridge, apn reflex, camescope SD, camescope HD)
+
+les contraintes :
+->les photos d'abord ! 	-> chaque photo doit avoir pour nom : MARQUE-REFERENCE.jpg
+				-> dans la plus part des cas cé le nom donné par rdc, mais il arrive ke ca ne soit pas le cas, il faut alors les renommer
+				-> si il faut renommer utilise le copier/coller pour eviter les erreurs
+
+->les descriptions apres ! 	-> chaque description doit avoir pour nom : MARQUE-REFERENCE.txt
+					-> conseil : copie/colle les jpg d'un dossier (nimporte le quel vu kils ont tous les meme noms)
+					-> renome les en .txt et vide les
+
+selon mon experience il faut choisir juste les meilleures ventes ->pkoi les 5 meilleurs ventes seulement ? 
+	->> paske ta les 3 types de photos systematiquement (small sur la premiere page, large et zoom sur la page de chaque article
+	->> paske cé là ke ta les meilleures descriptions 
+	->> c'est donc bocou plus simple et rapide a gerer
+
+1. tu vas sur : http://www.rueducommerce.fr/Photo-Video-Numerique/
+2. en bas de la page, t'as les meilleures ventes 
+3. tu fé un glissé de la foto des 5 meilleures ventes dans le dossier small et tu verifie ke le transert sé bien passé et kelle sont bien petite, et le nom !
+4. tu ouvres les 5 dans un onglet different
+5. tu ouvre ton dossier large et tu y glisse les images des 5 dedans, et tu verifie ke le transert sé bien passé et kelle sont bien moyenne, et le nom !
+6. tu ouvre ton dossier zoom et tu click sur l'image pour avoir le zoom puis tu y glisse les images des 5 zoom dedans, 
+	et tu verifie ke le transert sé bien passé et kelle sont bien enorme, et le nom !
+
+->ca yé tu viens de remplir le dossier photo, avec de fichiers bien renomés!
+
+7. vas dans decritptions et tu copie colle les images d'un dossier pour les renommer en .txt tu fais ca pour detail et resume
+8. retourne sur la page web du produit : a coté de la foto ta une liste : click droit inspect element (firebug)
+9. tu copie tous les <li> (il est dans un <td> ou un <div>, ca dépend : fé un click droit sur le div ou le td et copy html) ca sera ca notre resume darticle
+10.tu colle ca dans ton marque-reference.txt et tu nettoie le fichier de facon a laisser ke les li
+11. renome en html si tu veu verifier sous firefox
+12.tu fais ca pour les 5 produits
+
+->ca yé tu viens de remplir le dossier resume, avec de fichiers bien renomés !
+
+le plus chiant maintenant !!!
+
+13.tu copie/colle tous les . txt de resume et tu les fou dan detail (toujours pour avoir les bon noms de fichier car ca sera bienfur primordial)
+14.retourne sur la page web du produit et tu click sur descritpif du produit(ou tu defile)
+15.click droit sur "presentation - appareil photo..." ->inspect element
+16.il te fou sur un h3, juste au dessus ta un <div class=border2 fpContainerTab>  ->click droit copy html
+17.et là amuse toi !!! 	-> tu supprime ce ki te semble inutile : les animations, les images, les div inutiles
+				-> il ne reste en general ke 2 div (border2 fpContainerTab et fpPres) contenant kk h3, du texte, et le tableau
+18.refait ca pour les 5 produits top vente
+
+-> il ne te reste plus ka remplir la bd, toujours avec des copier/coller pour les references !!!

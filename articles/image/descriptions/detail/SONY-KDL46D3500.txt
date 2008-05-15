@@ -1,0 +1,32 @@
+<div class="border2 fpContainerTab">
+<h3 class="fpTitrePres fpDegrade text"><a name="pres"/>Présentation - Téléviseur LCD - 16/9 - 46'' - 117cm - FULL HD - TNT - BRAVIA - KDL46D3500</h3>
+<div class="fpPres">
+<b>Téléviseur LCD - 16/9 - 46'' - 117cm - FULL HD - TNT - BRAVIA - KDL46D3500</b><br/><br/>
+<br/><li>Résolution de 6,2 mégapixels et technologie « BRAVIA Engine » pour une clarté et une définition améliorées</li>
+<li>Technologie « Live Colour Creation » pour des couleurs éclatantes et naturelles</li>
+<li>Compatibilté HD 1080p pour une incroyable qualité d'affichage des signaux haute définition, comme ceux de la PLAYSTATION®3, du Blu-Ray, etc.</li>
+<li>2 entrées HDMI™ pour une connectivité facilitée</li>
+<li>Technologie « True Cinema » 24p pour profiter d'une expérience cinématographique telle que le réalisateur l'a rêvée</li>
+<li>Fonction « BRAVIA Theatre Sync » vous permettant de commander votre téléviseur, ainsi que votre système Home Cinema d'une simple pression sur un bouton</li>
+<li>Tuner TNT intégré (MPEG 2 - analogique également pris en charge)</li><li>Technologie « HD photo TV » pour afficher des photographies numériques haute résolution de qualité optimale</li>
+<li>Technologie S-FORCE Front Surround offrant tout l'effet du son Surround en utilisant uniquement les deux enceintes avant</li>
+<li>Compatible avec la technologie « Audio Description » qui permet aux personnes mal voyantes ou non voyantes de suivre les programmes télévisés (disponible dans certains pays)</li>
+</div>
+<h3 class="fpTitrePres fpDegrade text"><a name="ct"/>Caractéristiques techniques - Téléviseur LCD - 16/9 - 46'' - 117cm - FULL HD - TNT - BRAVIA - KDL46D3500</h3>
+<table cellspacing="0" cellpadding="4" border="0" class="fpTabProductRecords border2">
+<tbody><tr valign="top"><td width="30%" class="left bg">Diagonale en cm :</td>
+<td width="70%" class="right bg"> 117</td></tr><tr valign="top"><td class="left1 border">Format :</td>
+<td class="right"> 16/9</td></tr><tr valign="top"><td class="left bg">Résolution :</td><td class="right bg"> 1920 x 1080</td></tr>
+<tr valign="top"><td class="left1 border">Luminosité :</td><td class="right"> 500 cd/m²</td></tr><tr valign="top">
+<td class="left bg">Ratio de contraste :</td><td class="right bg"> <li>1800:1</li><li>16000:1 (dynamique)<br/><br/></li></td></tr>
+<tr valign="top"><td class="left1 border">Temps de réponse :</td><td class="right"> 8 ms</td></tr><tr valign="top">
+<td class="left bg">Angle de vision :</td><td class="right bg"> 178°</td></tr><tr valign="top">
+<td class="left1 border">Fonction d'amélioration de l'image :</td><td class="right"> <li>Bravia Engine</li>
+<li>Colour Engine</li><li>Mode Theatre</li><li>HD Photo TV</li><li>Filtre en peigne 3D<br/><br/></li></td></tr>
+<tr valign="top"><td class="left bg">Tuner :</td><td class="right bg"> <li>Tuner terrestre analogique</li>
+<li>Tuner numérique terrestre<br/><br/></li></td></tr><tr valign="top"><td class="left1 border">Télétexte :</td>
+<td class="right"> Oui, 700 pages</td></tr><tr valign="top"><td class="left bg">Audio :</td><td class="right bg"> <li>2 x 10 Watts</li><li>Technologie S-FORCE Front Surround<br/><br/></li></td></tr><tr valign="top"><td class="left1 border">Connectique :</td><td class="right"> <li>2 x HDMI</li><li>1 x Entrée PC (D-sub 15 broches) + Entrée audio</li><li>1 x Entrée Composante</li><li>1 x Entrée Y/C</li><li>1 x Prise casque</li><li>1 x Emplacement carte Memory Stick</li><li>1 x Emplacement carte PCMCIA</li><li>1 x Sortie audio RCA</li><li>1 x Entrée AV RCA</li><li>1 x Entrée RF</li><li>2 x Péritels<br/><br/></li></td></tr><tr valign="top"><td class="left bg">Prise casque :</td><td class="right bg"> Oui</td></tr><tr valign="top"><td class="left1 border">Dimensions :</td><td class="right"> <li>Dimensions avec support : 1114 x 778 x 306 mm (L x H x P)</li><li>Dimensions sans support : 1114 x 730 x 115 mm (L x H x P)<br/><br/></li></td></tr><tr valign="top"><td class="left bg">Poids :</td><td class="right bg"> <li>Avec support : 30 kg</li><li>Sans support : 26 Kg<br/><br/></li></td></tr><tr valign="top"><td class="left1 border">Garantie :</td><td class="right"> 1 an</td></tr><tr valign="top"><td class="left bg">Télécommande :</td><td class="right bg"> Oui</td></tr><tr valign="top"><td class="left1 border">Consommation en fonction / en veille :</td>
+<td class="right"> 238 W / 0.3 W</td></tr>
+</tbody>
+</table>
+</div>

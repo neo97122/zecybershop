@@ -1,0 +1,56 @@
+<div class="border2 fpContainerTab">
+<h3 class="fpTitrePres fpDegrade text"><a name="pres"/>Présentation - Téléviseur LCD - 16/9 - 26'' - 66cm - HD Ready - TNT - LE26S86BD</h3>
+<div class="fpPres">
+
+<blockquote><br/><br/><dl><dt><b>Sortie HDMI™ (Conversion HD 1080i/720p): Une qualité d’image 100% numérique</b></dt>
+<dd>
+L’HDMI (High Definition Multimedia Interface) est une connectique transférant en numérique les signaux vidéo et audio 
+de votre platine DVD vers votre TV, Home cinéma ou tout autre appareil AV. 
+Vous n’avez qu’à simplement connecter les appareils à l’aide du câble HDMI pour profiter du 100% numérique.
+</dd>
+<br/><br/>
+<dt><b>HD Ready + TNT intégrée</b></dt>
+<dd>Avec deux fois plus de pixels, l’appelation HD Ready garantie
+toutes les exigences techniques nécessaires à l'accès à une
+image haute définition. Bénéficiez de 2 sources en HD
+et de 18 chaînes gratuites en qualité numérique.<br/><br/>
+</div>
+<h3 class="fpTitrePres fpDegrade text"><a name="ct"/>Caractéristiques techniques - Téléviseur LCD - 16/9 - 26'' - 66cm - HD Ready - TNT - LE26S86BD</h3>
+<table cellspacing="0" cellpadding="4" border="0" class="fpTabProductRecords border2">
+<tbody>
+<tr valign="top">
+<td width="30%" class="left bg">Diagonale en pouces / centimètres :</td><td width="70%" class="right bg"> 26 / 66</td>
+</tr>
+<tr valign="top"><td class="left1 border">Format :</td><td class="right"> 16/9</td>
+</tr>
+<tr valign="top"><td class="left bg">Résolution :</td><td class="right bg"> 1366 x 768</td>
+</tr>
+<tr valign="top"><td class="left1 border">Luminosité :</td><td class="right"> 500 cd/m²</td>
+</tr>
+<tr valign="top"><td class="left bg">Ratio de contraste :</td><td class="right bg"> 4000:1 (Contraste dynamique)</td>
+</tr>
+<tr valign="top"><td class="left1 border">Angle de vision :</td><td class="right"> 160° (H) / 150°(V)</td>
+</tr>
+<tr valign="top"><td class="left bg">Nombre de couleurs :</td><td class="right bg"> NC</td></tr><tr valign="top">
+<td class="left1 border">Fonction d'amélioration de l'image :</td><td class="right"> 
+<li>Sublimateur de couleurs (Wide color enhancer)</li><li>Mode DNIe</li><li>Mode jeu<br/><br/></li></td></tr>
+<tr valign="top"><td class="left bg">Fréquence de balayage :</td><td class="right bg"> 50 / 60 Hz</td></tr>
+<tr valign="top"><td class="left1 border">Temps de réponse :</td><td class="right"> 8 ms</td></tr><tr valign="top">
+<td class="left bg">Tuner :</td><td class="right bg"> <li>Tuner analogique</li><li>Tuner TNT<br/><br/></li></td></tr>
+<tr valign="top"><td class="left1 border">Télétexte :</td><td class="right"> Oui, 1000 pages mémorisables</td></tr>
+<tr valign="top"><td class="left bg">Audio :</td><td class="right bg"> <li>2 x 5 Watts</li><li>A2/Nicam</li>
+<li>SRS TruSurround<br/><br/></li></td></tr><tr valign="top"><td class="left1 border">Connectique générale :</td>
+<td class="right"> <li>2 x Péritels</li><li>1 x Entrée antenne</li><li>1 x Connectique digitale</li><li>1 x Vidéo Composante</li>
+<li>1 x Entrée PC</li><li>1 x ENtrée PC audio</li><li/></td></tr><tr valign="top"><td class="left bg">Connectique en façade / côté :</td>
+<td class="right bg"> <li>2 x HDMI (v1.2)</li><li>1 x Entrée S-Vidéo</li><li>1 x Prise casque</li><li>1 x Entrée audio-vidéo stéréo<br/>
+<br/></li></td></tr><tr valign="top"><td class="left1 border">Prise casque :</td><td class="right"> Oui</td></tr><tr valign="top">
+<td class="left bg">Slot carte mémoire :</td><td class="right bg"> Non</td></tr><tr valign="top"><td class="left1 border">Dimensions :</td>
+<td class="right"> <li>Dimensions avec pied : .743,8(L) x 506,5(H) x 232(P)mm</li><li>Dimensions sans pied : .743,8(L) x 447,4(H) x 80,8(P)mm<br/>
+<br/></li></td></tr><tr valign="top"><td class="left bg">Poids :</td><td class="right bg"> <li>Poids avec pied : 10,5 kg</li>
+<li>Poids sans pied : 8,9 kg<br/><br/></li></td></tr>
+<tr valign="top"><td class="left1 border">Garantie :</td><td class="right"> 2 ans retour atelier</td></tr>
+<tr valign="top"><td class="left bg">Télécommande :</td><td class="right bg"> Oui</td></tr><tr valign="top">
+<td class="left1 border">Consommation en fonction / en veille :</td><td class="right"> NC / 1 Watt</td></tr>
+</tbody>
+</table>
+</div>

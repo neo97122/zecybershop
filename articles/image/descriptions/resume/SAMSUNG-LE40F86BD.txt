@@ -1,0 +1,5 @@
+<li>Téléviseur Full HD 1920 x 1080</li>
+<li>100 Hz</li>
+<li>Contraste dynamique 25 000:1</li>
+<li>Luminosité 500 cd/m²</li>
+<li>3 prises HDMI></li>

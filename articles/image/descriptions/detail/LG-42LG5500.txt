@@ -1,0 +1,49 @@
+<div class="border2 fpContainerTab">
+<h3 class="fpTitrePres fpDegrade text"><a name="pres"/>Présentation - Téléviseur LCD - 16/9 - 42'' - 107cm - Full HD - TNT - 42LG5500</h3>
+<div class="fpPres">
+<p><strong>La haute définition en toute sa splendeur...<br/>
+Cet écran affiche la qualité exceptionnelle des images haute définition</strong> diffusées par les programmes TVHD, 
+les lecteurs BluRay ou consoles de jeux HD ... <br/>
+<strong/></p><li><strong>Ses associations de technologies ( XD Engine Full HD, Super IPS...)</strong> 
+vous permettent de bénéficier d'une image nettoyée de toutes impuretés, les couleurs sont plus vives, 
+les noirs plus profonds, les images sont nettes.<br/>
+</li><li>Immergez vous dans votre film préfére grâce à la <strong>technologie Surround Max,</strong> 
+le son vous enveloppe pour vous situer au coeur de l'action. Le son délivré est réaliste et 
+homogène quelque soit votre position dans la pièce.<br/>
+</li><li><strong>Un Tuner TNT Mpeg4 HD intégré</strong>, qui permet de recevoir gratuitement des chaînes HD de la TNT. 
+Les programmes Haute Définition sont expérimentés sur une zone limitée. 
+<strong/></li><li><strong>Une connectique complete</strong>, branchez votre lecteur DVD sur l'entrée YUV pour bénéficier d'une qualité d'image optimale.<strong>3 interfaces HDMI</strong>  qui permettent un enregistreur DVD, un tuner satellite ou câble numérique, afin de bénéficier d'une image d'une qualité exceptionnelle, en haute définition.<br/>
+<strong> Ce téléviseur agremente ses capacités par un design noir laqué. <br/>
+</strong><p> </p></li>
+</div>
+<h3 class="fpTitrePres fpDegrade text"><a name="ct"/>Caractéristiques techniques - Téléviseur LCD - 16/9 - 42'' - 107cm - Full HD - TNT - 42LG5500</h3>
+<table cellspacing="0" cellpadding="4" border="0" class="fpTabProductRecords border2"><tbody><tr valign="top">
+<td width="30%" class="left bg">Diagonale en pouce / cm :</td><td width="70%" class="right bg"> 42 / 107</td></tr>
+<tr valign="top"><td class="left1 border">Format :</td><td class="right"> 16/9</td></tr><tr valign="top"><td class="left bg">Résolution :</td>
+<td class="right bg"> 1920 x 1080 (Full HD)</td></tr><tr valign="top"><td class="left1 border">Luminosité :</td><td class="right"> 500 cd/m²</td>
+</tr><tr valign="top"><td class="left bg">Ratio de contraste :</td><td class="right bg"> 15000:1</td></tr>
+<tr valign="top"><td class="left1 border">Angle de vision :</td><td class="right"> 176° / 176° (H/V)</td></tr>
+<tr valign="top"><td class="left bg">Nombre de couleurs :</td><td class="right bg"> NC</td></tr><tr valign="top">
+<td class="left1 border">Fonction d'amélioration de l'image :</td><td class="right"> <li>XD Engine</li>
+<li>1.1 Pixels Matching<br/><br/></li></td></tr><tr valign="top"><td class="left bg">Fréquence de balayage :</td>
+<td class="right bg"> 50 / 60 Hz</td></tr><tr valign="top"><td class="left1 border">Temps de réponse :</td>
+<td class="right"> 5 ms</td></tr><tr valign="top"><td class="left bg">Tuner :</td><td class="right bg"> 
+<li>PAL/Secam</li><li>Tuner TNT</li><li>Compatible MPEG4<br/><br/></li></td></tr><tr valign="top">
+<td class="left1 border">Télétexte :</td><td class="right"> Oui, 1000 pages</td></tr><tr valign="top">
+<td class="left bg">Audio :</td><td class="right bg"> <li>2 x 10 W</li><li>Décodeur Dolby Digital</li>
+<li>Surround Max</li><li>Enceintes 2 voies<br/><br/></li></td></tr><tr valign="top">
+<td class="left1 border">Connectique générale :</td><td class="right"> <li>2 x HDMI 1.3 dont 1 x HDMI Port PC Mode</li>
+<li>2 x Péritel</li><li>1 x Composante (YUV)</li><li>1 x Sortie audio numérique optique</li><li>1 x PC (sub-D 15)</li>
+<li>1 x PC audio<br/><br/></li></td></tr><tr valign="top"><td class="left bg">Connectique en façade / de côté :</td>
+<td class="right bg"> <li>1 x HDMI 1.3</li><li>1 x Audio/Vidéo composite RCA</li><li>1 x S-Vidéo</li><li>1 x Slot Cl<br/>
+<br/></li></td></tr><tr valign="top"><td class="left1 border">Prise casque :</td><td class="right"> Non</td></tr>
+<tr valign="top"><td class="left bg">Slot carte mémoire :</td><td class="right bg"> Non</td></tr><tr valign="top">
+<td class="left1 border">Dimensions :</td><td class="right"> <li>Dimensions sans pied : 1032(L) x 662(H) x 92(P) mm</li>
+<li>Dimensions avec pied : 1032(L) x 735(H) x 294(P) mm<br/><br/></li></td></tr><tr valign="top"><td class="left bg">Poids :</td>
+<td class="right bg"> <li>Dimensions sans pied : 19.33 Kg</li><li>Dimensions avec pied : 22 Kg<br/><br/></li></td></tr><tr valign="top">
+<td class="left1 border">Garantie :</td><td class="right"> 2 ans sur site</td></tr><tr valign="top"><td class="left bg">Télécommande :</td>
+<td class="right bg"> Oui</td></tr><tr valign="top">
+<td class="left1 border">Consommation en fonction / en veille :</td><td class="right"> 220 Watts / 1 Watt</td></tr>
+</tbody>
+</table>
+</div>
