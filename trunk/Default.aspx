@@ -10,6 +10,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
+    <div>
     <!-- L'en-tête -->
  
        <div id="en_tete">
@@ -62,6 +63,7 @@
        <div id="pied_de_page">
            <p>Copyright "ZeCyberShop" 2008, tous droits réservés</p>
        </div>
+    </div>
     </div>
     </form>
 </body>
