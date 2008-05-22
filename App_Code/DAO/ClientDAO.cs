@@ -10,6 +10,7 @@ using System.Web.UI.HtmlControls;
 using Commerce.DAO;
 using  Commerce.Service;
 using  Commerce.Metier.Entite;
+using System.Data.SqlClient;
 
 
 /// <summary>
@@ -68,9 +69,35 @@ namespace Commerce.DAO
             }
             finally { cnx.Close(); }
         }
-        public Client Authentifier(string login, string password)
+        public bool Authentifier(string login, string password)
         {
-
+            bool bOk = false;
+            // Cryptage du mot de passe
+            password = FormsAuthentication.HashPasswordForStoringInConfigFile(password, "MD5");
+            // Création d'une connexion SGBD
+            SqlConnection Connexion = new SqlConnection("Data Source = localhost; user id=sa;password=;initial catalog=COMMERCE;");
+            // Définition de la requête à exécuter
+            SqlCommand Command = new SqlCommand("SELECT * FROM CLIENT WHERE Login='" + login + "' and mdp='" + password + "'", Connexion);
+            try
+            {
+                // Ouverture de la connexion et exécution de la requête
+                Connexion.Open();
+                SqlDataReader drClient = Command.ExecuteReader();
+                // Parcours de la liste des utilisateurs
+                while (drClient.Read())
+                {
+                    if (drClient["mdp"].ToString() == password)
+                    {
+                        bOk = true; break;
+                    }
+                }
+            }
+            catch
+            {
+                bOk = false;
+            }
+            Connexion.Close();
+            return bOk;
         }
     }
 }
