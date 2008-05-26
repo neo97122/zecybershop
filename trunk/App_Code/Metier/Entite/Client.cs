@@ -27,97 +27,97 @@ namespace Commerce.Metier.Entite
             //
         }
 
-        public Client(string Login, string Password)
+        public Client(string login, string password)
         {
-            Login = _login;
-            Password = _password;
+            this.Login = login;
+            this.Password = password;
         }
 
-        public Client(string Nom, string Prenom, string Login, string Password, string AdresseF, string AdresseL, string Codepostal, string Ville, string Telephone, string Mail)
+        public Client(string nom, string prenom, string login, string password, string adresseF, string adresseL, string codepostal, string ville, string telephone, string mail)
         {
-            Nom = _nom;
-            Prenom = _prenom;
-            Login = _login;
-            Password = _password;
-            AdresseF = _adresseF;
-            AdresseL = _adresseL;
-            Codepostal = _codepostal;
-            Ville = _ville;
-            Telephone = _telephone;
-            Mail = _mail;
+            this.Nom = nom;
+            this.Prenom = prenom;
+            this.Login = login;
+            this.Password = password;
+            this.AdresseF = adresseF;
+            this.AdresseL = adresseL;
+            this.Codepostal = codepostal;
+            this.Ville = ville;
+            this.Telephone = telephone;
+            this.Mail = mail;
         }
 
-        private string _nom;
+        private string nom;
 
         public string Nom
         {
-            get { return _nom; }
-            set { _nom = value; }
+            get { return nom; }
+            set { nom = value; }
         }
-        private string _prenom;
+        private string prenom;
 
         public string Prenom
         {
-            get { return _prenom; }
-            set { _prenom = value; }
+            get { return prenom; }
+            set { prenom = value; }
         }
-        private string _login;
+        private string login;
 
         public string Login
         {
-            get { return _login; }
-            set { _login = value; }
+            get { return login; }
+            set { login = value; }
         }
-        private string _password;
+        private string password;
 
         public string Password
         {
-            get { return _password; }
-            set { _password = value; }
+            get { return password; }
+            set { password = value; }
         }
-        private string _adresseF;
+        private string adresseF;
 
         public string AdresseF
         {
-            get { return _adresseF; }
-            set { _adresseF = value; }
+            get { return adresseF; }
+            set { adresseF = value; }
         }
-        private string _adresseL;
+        private string adresseL;
 
         public string AdresseL
         {
-            get { return _adresseL; }
-            set { _adresseL = value; }
+            get { return adresseL; }
+            set { adresseL = value; }
         }
 
-        private string _codepostal;
+        private string codepostal;
 
         public string Codepostal
         {
-            get { return _codepostal; }
-            set { _codepostal = value; }
+            get { return codepostal; }
+            set { codepostal = value; }
         }
-        private string _ville;
+        private string ville;
 
         public string Ville
         {
-            get { return _ville; }
-            set { _ville = value; }
+            get { return ville; }
+            set { ville = value; }
         }
-        private string _telephone;
+        private string telephone;
 
         public string Telephone
         {
-            get { return _telephone; }
-            set { _telephone = value; }
+            get { return telephone; }
+            set { telephone = value; }
         }
 
-        private string _mail;
+        private string mail;
 
         public string Mail
         {
-            get { return _mail; }
-            set { _mail = value; }
+            get { return mail; }
+            set { mail = value; }
         }
     }
 }
