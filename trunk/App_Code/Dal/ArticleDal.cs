@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Data;
+using System.Collections.Generic;
+using System.Text;
 using System.Configuration;
 using System.Web;
 using System.Web.Security;
@@ -8,9 +10,12 @@ using System.Web.UI.WebControls;
 using System.Web.UI.WebControls.WebParts;
 using System.Web.UI.HtmlControls;
 
+using Commerce.Abstract.Dao;
+using Commerce.Dal.Mapper;
 using Commerce.Metier.Entite;
-using Commerce.Abstract;
-using Spring.Data.Core;
+using Spring.Data.Generic;
+using Spring.Data.Common;
+using System.Data;
 
 /// <summary>
 /// Description résumée de ArticleDal
@@ -18,13 +23,21 @@ using Spring.Data.Core;
 /// 
 namespace Commerce.Dal
 {
-    public class ArticleDal
+    public class ArticleDal : AdoDaoSupport, IArticleDao
     {
-        public ArticleDal()
+        #region IArticleDao Membres
+
+        public Article GetByReference(string reference)
         {
-            //
-            // TODO : ajoutez ici la logique du constructeur
-            //
+            string query = "SELECT * FROM ARTICLES WHERE REFERENCE = @reference";
+
+            IDbParameters parameters = CreateDbParameters();
+            parameters.Add("reference", DbType.String).Value = reference;
+
+            return AdoTemplate.QueryForObject<Article>(System.Data.CommandType.Text, query,
+                new ArticleRowMapper(), parameters);
         }
+
+        #endregion
     }
 }
