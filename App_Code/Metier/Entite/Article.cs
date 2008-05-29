@@ -16,7 +16,7 @@ namespace Commerce.Metier.Entite
 {
     public class Article
     {
-        public Article(int id, string reference, string marque, string categorie, float prixUnitaire, string descCourt, string descLong)
+        public Article(int id, string reference, string marque, string categorie, float prixUnitaire, string descCourt, string descLong,int qteStock)
         {
             this.Id = id;
             this.Reference = reference;
@@ -25,7 +25,21 @@ namespace Commerce.Metier.Entite
             this.PrixUnitaire = prixUnitaire;
             this.DescCourt = descCourt;
             this.DescLong = descLong;
+            this.QteStock = qteStock;
         }
+
+
+
+
+        private int qteStock;
+
+        public int QteStock
+        {
+            get { return qteStock; }
+            set { qteStock = value; }
+        }
+
+      
 
         private int id;
 
