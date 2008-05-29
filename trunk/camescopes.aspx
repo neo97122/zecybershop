@@ -1,20 +1,18 @@
-<%@ Page Language="C#" AutoEventWireup="true"  CodeFile="Default.aspx.cs" Inherits="_Default" %>
+<%@ Page Language="C#" AutoEventWireup="true" CodeFile="camescopes.aspx.cs" Inherits="tv" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 <html xmlns="http://www.w3.org/1999/xhtml" >
-<head id="Head1" runat="server">
-       <title>ZeBIZshop - HOME</title>
+<head runat="server">
+    <title>Camescopes</title>
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-	<link rel="stylesheet" media="screen" type="text/css" title="ZeBIZshop" href="lib/css/com.css" />
+    <link rel="stylesheet" media="screen" type="text/css" title="ZeBIZshop" href="lib/css/com.css" />
 	<script type="text/javascript" src="lib/js/prototype.js" ></script> 
 	<script type="text/javascript" src="lib/js/scriptaculous.js" ></script> 
 	<script type="text/javascript" src="lib/js/prototype.js" ></script>
 	<script type="text/javascript" src="lib/js/com.js" ></script>
 </head>
- 
-   <body>
- 
+    <body> 
        <!-- L'en-tête -->
  
        <div id="en_tete">
@@ -34,7 +32,7 @@
            </div>               
            <div class="element_menu">
                <h3 onclick='slide_menu("menu_son");'>SON</h3>
-               <ul id="menu_son" style="display:none" >
+               <ul id="menu_son"  style="display:none">
                    <li><a href="mp3.aspx">Lecteurs MP3</a></li>
                    <li><a href="mp4.aspx">Lecteurs MP4</a></li>
                    <li><a href="ecouteurs.aspx">Ecouteurs</a></li>
@@ -50,7 +48,7 @@
            </div>   
            <div class="element_menu">
                <h3 onclick='slide_menu("menu_num");'>NUMERIQUE</h3>
-               <ul id="menu_num" style="display:none">
+               <ul id="menu_num" >
                    <li><a href="apn.aspx">Appareils photo</a></li>
                    <li><a href="camescopes.aspx">Camescope</a></li>
                </ul>
@@ -75,19 +73,10 @@
  
        <div id="corps" >
         <div id="intro">
-           <h1>Bienvenue sur ZeBIZshop</h1>
-           <h2>Vous y trouverez toutes les dernières technologies aux meilleurs prix...</h2> 
-               
+           <h1>Camescopes</h1>
+           <h2>Vous pouvez triez par <a href="" ><strong>prix</strong></a>  par <a href="" ><strong>type</strong></a> ou par <a href="" ><strong>marque</strong></a></h2> 
         </div>
-       <div id="p1" class="divp">
-       </div>
-       <div id="p2" class="divp">
-       </div>
-       <div id="p3" class="divp">
-       </div>
-       <div id="p4" class="divp">
-       </div>
-        <p id="home">Naviguez dans les différentes catégories du site et selectionnez les meilleures affaires.</p>
+ 
        </div>
        
 

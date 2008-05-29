@@ -27,26 +27,59 @@ namespace Commerce.Metier.Entite
             //
         }
 
+    
+        
+        
+        
         public Client(string login, string password)
         {
             this.Login = login;
             this.Password = password;
         }
 
-        public Client(string nom, string prenom, string login, string password, string adresseF, string adresseL, string codepostal, string ville, string telephone, string mail)
+        public Client(int id, string nom, string prenom, string mobile, string login, string password, int idAdrClient, string codepostal, string ville, string telephone, string mail)
         {
+            this.Id = id;
             this.Nom = nom;
             this.Prenom = prenom;
             this.Login = login;
             this.Password = password;
-            this.AdresseF = adresseF;
-            this.AdresseL = adresseL;
+            this.IdArdClient = idAdrClient;
             this.Codepostal = codepostal;
             this.Ville = ville;
+            this.Mobile = mobile;
             this.Telephone = telephone;
             this.Mail = mail;
         }
 
+        private int id;
+         public int Id
+        {
+            get { return id; }
+            set { id = value; }
+        }
+          private int mobile;
+         public int Mobile
+        {
+            get { return mobile; }
+            set { mobile = value; }
+        }
+
+          private int idAdrClient;
+         public int IdArdClient
+        {
+            get { return idArdClient; }
+            set { idArdClient = value; }
+        }
+
+          private int numCarte;
+         public int NumCarte
+        {
+            get { return numCarte; }
+            set { numCarte = value; }
+        }
+       
+	
         private string nom;
 
         public string Nom

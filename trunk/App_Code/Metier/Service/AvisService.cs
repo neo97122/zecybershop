@@ -7,28 +7,20 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Web.UI.WebControls.WebParts;
 using System.Web.UI.HtmlControls;
-using Commerce.DAO;
-using  Commerce.Service;
-using  Commerce.Metier.Entite;
-using System.Data.SqlClient;
-
 
 /// <summary>
-/// Description résumée de ClientDAO
+/// Description résumée de AvisService
 /// </summary>
-/// 
 
-namespace Commerce.DAO
+namespace Commerce.Metier.Service
 {
-    public class ClientDAO
+    public class AvisService
     {
-        public ClientDAO()
+        public AvisService()
         {
             //
             // TODO : ajoutez ici la logique du constructeur
             //
         }
-
-      
     }
 }
